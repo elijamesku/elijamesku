@@ -1,6 +1,6 @@
 # Hi im Eli!
 
-I'm a passionate IT Support Specialist & Endpoint Management specialist that has a skillset in building secure, automated scalable solutions using native Windows/Mac tools and open-source technologies. Whether it's deploying enterprise software via MDMs, automating compliance checks, or creating zero-touch onboarding systems.. I'm always chasing automation, efficiency and clarity in IT operations to save time and money.
+I'm a passionate IT Support Specialist that has a skillset in building secure, automated scalable solutions using native Windows/Mac tools and open-source technologies. Whether it's deploying enterprise software via MDMs, automating compliance checks, or creating zero-touch onboarding systems.. I'm always chasing automation, efficiency and clarity in IT operations to save time and money.
 
 ## Tech I Work With
 
