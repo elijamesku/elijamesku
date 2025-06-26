@@ -6,7 +6,7 @@ I'm a passionate IT Support Specialist that has a skillset in building secure, a
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="Apple Logo" width="32" height="35">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="40"/> 
-## What I Do
+## Short list of skills
 
 - Automate historically manual IT systems
 
@@ -15,6 +15,8 @@ I'm a passionate IT Support Specialist that has a skillset in building secure, a
 - Build scalable frameworks for compliance, alerting, and auto-updates
 
 - Compare, integrate, and optimize MDMs (Intune, JAMF)
+
+- Customer support
 
 
 ```                                                                                                                                          
